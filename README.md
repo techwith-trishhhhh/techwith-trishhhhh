@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing B.Tech in Information Technology at Techno Main Salt Lake
-- 📱 Aspiring Web Developer , with experience in Html,CSS JS, Java, Firebase, and FastAPI
+- 📱 Aspiring Web Developer , with experience in Html, CSS, JS, Java, Firebase, and FastAPI
 - 💻 Currently learning **DSA in Java** 
 - 🌱 Exploring Web & App Development
 - ⚡ Goal: Become a top  developer
