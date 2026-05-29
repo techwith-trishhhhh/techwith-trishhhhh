@@ -49,16 +49,9 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 ---
 
-## 📊 GitHub Stats
-![Trishnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight)
-
----
-# 📊 GitHub Stats & Dynamic Activity
-
-### 📈 Overall Status
+### 🔥 GitHub Streak & Dynamic Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&count_private=true&theme=dracula&bg_color=1c2022&hide_border=true" alt="Trishnika's GitHub overall stats" height="195px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=dracula&hide_border=true" alt="Trishnika's GitHub current coding streak" height="195px" />
 </p>
 
