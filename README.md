@@ -53,17 +53,19 @@
 ![Trishnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight)
 
 ---
-### 📊 GitHub Stats
+# 📊 GitHub Stats & Dynamic Activity
+
+### 📈 Overall Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight&count_private=true" alt="Trishnika's GitHub Stats" height="195px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=tokyonight" alt="Trishnika's GitHub Streak" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&count_private=true&theme=dracula&bg_color=1c2022&hide_border=true" alt="Trishnika's GitHub overall stats" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=dracula&hide_border=true" alt="Trishnika's GitHub current coding streak" height="195px" />
 </p>
 
-### 📈 Contribution Graph
+### 🛠️ Contribution History & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=tokyonight" alt="Trishnika's Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=dracula&bg_color=1c2022&hide_border=true" alt="Trishnika's dynamic GitHub contribution graph" width="100%" />
 </p>
 ## 🧠 LeetCode Stats
 
