@@ -53,19 +53,17 @@
 ![Trishnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight)
 
 ---
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=tokyonight&count_private=true" alt="Trishnika's GitHub Stats" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=tokyonight" alt="Trishnika's GitHub Streak" height="195px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=tokyonight" />
-</p>
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=tokyonight" alt="Trishnika's Contribution Graph" width="100%" />
 </p>
 ## 🧠 LeetCode Stats
 
