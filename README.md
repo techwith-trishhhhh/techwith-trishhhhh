@@ -34,29 +34,12 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" height="40" /></a>
-  <a href="https://www.cisco.com" target="_blank"><img src="https://img.shields.io/badge/-Cisco_Hacking-red?style=for-the-badge&logo=cisco&logoColor=white" height="40" /></a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,fastapi,postgres,mongodb,firebase,vscode,git,github,postman,figma,vercel&perline=8" />
+  </a>
 </p>
 
 ---
