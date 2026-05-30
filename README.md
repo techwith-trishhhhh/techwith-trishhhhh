@@ -1,13 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Trishnika%20Mondal&fontSize=55&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Trishnika%20Mondal&fontSize=50&animation=twinkle&theme=dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=600&lines=+Developer;HTML+CSS+JS+Learner;DSA+in+Java;Future+Top+Developer&speed=100&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+%7C+DSA+Learner;Information+Technology+Student;Future+Top+Developer&speed=80&pause=1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Trishnika</h1>
-<h3 align="center">🚀 Aspiring Developer | DSA Learner | Full-Stack Enthusiast</h3>
+<h3 align="center">🚀 Engineering Student | Aspiring Full-Stack Developer | Security Enthusiast</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/trishnika-mondal-a43185387" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://my-portfolio-zeta-mures-35.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐--blue?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="mailto:trishnikamondal30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/github/languages/top/techwith-trishhhhh/My-Portfolio?color=blue" alt="Top Language" />
+</p>
 
 ---
 
