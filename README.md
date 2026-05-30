@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Trishnika%20Mondal&fontSize=50&animation=twinkle&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Trishnika%20Mondal&fontSize=55&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+%7C+DSA+Learner;Information+Technology+Student;Future+Top+Developer&speed=80&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=600&lines=+Developer;HTML+CSS+JS+Learner;DSA+in+Java;Future+Top+Developer&speed=100&pause=1000" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Trishnika</h1>
 <h3 align="center">🚀 Engineering Student | Aspiring Full-Stack Developer | Security Enthusiast</h3>
