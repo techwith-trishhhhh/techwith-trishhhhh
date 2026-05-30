@@ -13,10 +13,10 @@
   <a href="https://linkedin.com/in/trishnika-mondal-a43185387" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://my-portfolio-zeta-mures-35.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-zeta-murex-35.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-🌐--blue?style=flat-square" alt="Portfolio" />
   </a>
-  <a href="mailto:trishnikamondal30@gmail.com">
+  <a href="mailto:trishnikamondal30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
