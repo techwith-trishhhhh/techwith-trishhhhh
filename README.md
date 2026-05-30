@@ -81,32 +81,26 @@
 
 ---
 
-## 📊 Analytics & Core Metrics
+### 🔥 GitHub Streak & Dynamic Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwith-trishhhhh&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwith-trishhhhh&theme=dracula&hide_border=true" alt="Trishnika's GitHub current coding streak" height="195px" />
 </p>
 
 ### 🛠️ Contribution History & Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=dracula&bg_color=1c2022&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techwith-trishhhhh&theme=dracula&bg_color=1c2022&hide_border=true" alt="Trishnika's dynamic GitHub contribution graph" width="100%" />
 </p>
-
----
-
 ## 🧠 LeetCode Stats
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/CodeWithTrixx?theme=dark&font=Karma&ext=heatmap" />
 </p>
-
----
-
 ## 🔥 Current Focus
-- 📚 **DSA Practice** (Mastering problem solving in Java)
-- 🚀 **Building Scalable Projects** (Integrating intelligent APIs)
-- 💡 **Refining Full-Stack Workflows**
+- 📚 DSA Practice
+- 🚀 Building Projects
+- 💡 Improving Problem Solving
 
 ## 👀 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=techwith-trishhhhh&color=blueviolet&style=flat-square" />
-</p>
+![](https://komarev.com/ghpvc/?username=techwith-trishhhhh&color=blue)
