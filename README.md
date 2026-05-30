@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://my-portfolio-zeta-mures-35.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐--blue?style=flat-square" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=flat-square" alt="Portfolio" />
   </a>
   <a href="mailto:trishnikamondal30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
