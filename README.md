@@ -36,11 +36,28 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,fastapi,postgres,mongodb,firebase,vscode,git,github,postman,figma,vercel&perline=8" />
-  </a>
-</p>
+<table align="left">
+  <tr align="center">
+    <td><a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" /><br /><sub><b>Java</b></sub></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" /><br /><sub><b>HTML5</b></sub></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" /><br /><sub><b>CSS3</b></sub></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" /><br /><sub><b>JavaScript</b></sub></a></td>
+    <td><a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" /><br /><sub><b>React</b></sub></a></td>
+    <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br /><sub><b>Tailwind</b></sub></a></td>
+    <td><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" /><br /><sub><b>FastAPI</b></sub></a></td>
+    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" /><br /><sub><b>Postgres</b></sub></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br /><sub><b>MongoDB</b></sub></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" /><br /><sub><b>Firebase</b></sub></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br /><sub><b>VS Code</b></sub></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" /><br /><sub><b>Git</b></sub></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /><br /><sub><b>GitHub</b></sub></a></td>
+    <td><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="40" /><br /><sub><b>Postman</b></sub></a></td>
+    <td><a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" /><br /><sub><b>Figma</b></sub></a></td>
+    <td><a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="40" /><br /><sub><b>Vercel</b></sub></a></td>
+  </tr>
+</table>
+
+<br/><br/><br/><br/>
 
 ---
 
